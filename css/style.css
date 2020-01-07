@@ -21,7 +21,7 @@ h1 {
 }
 
 header {
-  background: #3F51B5;
+  background: rgba(3, 7, 29, 0.767);
   color: #FFFFFF;
   padding: 150px 0;
 }
@@ -135,7 +135,7 @@ a:hover, a:active, a:focus {
 }
 
 .timeline-item:nth-child(2) .timeline-img-header {
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://hd.unsplash.com/photo-1458530970867-aaa3700e966d") center center no-repeat;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.4)), url("https://p1.pxfuel.com/preview/932/467/825/books-education-school-literature-royalty-free-thumbnail.jpg") center center no-repeat;
   background-size: cover;
 }
 .timeline-item:nth-child(5) .timeline-img-header {
@@ -179,9 +179,9 @@ blockquote {
 }
 
 .date {
-  background: #FF4081;
+  background: rgba(3, 4, 37, 0.589);
   display: inline-block;
-  color: #FFFFFF;
+  color: rgb(255, 255, 255);
   padding: 10px;
   position: absolute;
   top: 0;
