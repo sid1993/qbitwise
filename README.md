@@ -1,4 +1,7 @@
-Prequisites :
+# Classical Simulation of Quantum Algorithms
+
+## Prequisites :
+
 Anconda Distribution for Python : https://www.anaconda.com/distribution/
 
 This repository contains classical simulation of quantum algorithms:
