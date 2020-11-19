@@ -1,2 +1,0 @@
-# qbitwise
-Quantum Leap
