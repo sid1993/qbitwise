@@ -16,9 +16,15 @@ Use [Google Colab](https://colab.research.google.com/) to get started without an
 
 ## Contents
 
-1. [Grover's Algorithm](https://dl.acm.org/doi/pdf/10.1145/237814.237866?casa_token=0lkeKNhVZ_kAAAAA:WEVM1nbn1g_zK50NHKlh7sTPogFaiBrDrntJ1JznQOhsuB4RIgxE2t5_M3Zd930sCWq2nIZqn-W3Zg)
+1. [Grover's Algorithm](https://dl.acm.org/doi/pdf/10.1145/237814.237866?casa_token=8poFJBAkgRYAAAAA:qOgV746n3KwkW0h45wLR1JDXNn2bw5tZfz-1-4n9HCloDxyN-GO-hge550QdWCGR-SgSQNQ7Txzfuw)
 2. [Boyer's Exponential Search Algorithm](https://arxiv.org/pdf/quant-ph/9605034)
 3. [Durr-Hoyer Modified Maximum Finding Algorithm](https://arxiv.org/pdf/quant-ph/9607014)
+
+## Selected Papers for Implementation
+
+1. [Quantum Counting](https://arxiv.org/pdf/quant-ph/9805082)
+2. [Quantum Phase Estimation Algorithm](https://www.jstor.org/stable/pdf/53169.pdf?casa_token=3gyDRZ4y7T8AAAAA:Hw_XCEtxVEIaqpLuQPWK6of63mbgF5Gb8wv0kr9agFNBvFwdeTtN9ZhBCwakrPevR4gfQZWt95BLKwRf8Y3HE3Y0mHhr2hKvE28nnjLJ4PorkCMhrGI)
+3. [Shor's Algorithm](https://arxiv.org/pdf/quant-ph/9508027.pdf)
 
 ## Contributing
 
