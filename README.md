@@ -2,7 +2,7 @@
 
 ## About The Project
 
-The aim of the project is to provide classical simulation of quantum algorithms of selected research papers. Simulations can be performed classically before quantum circuit implementation. It is also useful for those who want to understand the mechanics and behaviour of a quantum algorithm through classical programming languages without thinking about quantum circuits and ket notations at first. Jupyter Notebooks can be used as sandboxes for your experiments and curious journey of quantum algorithms.
+The aim of the project is to provide classical simulation of quantum algorithms of selected research papers. Simulations can be performed classically before quantum circuit implementation. It is also useful for those who want to understand the mechanics and behavior of a quantum algorithm through classical programming languages without thinking about quantum circuits and ket notations at first. Jupyter Notebooks can be used as sandboxes for your experiments and curious journey of quantum algorithms.
 
 **Note** : The classical implementations will have exponential time and space complexity.
 
