@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][https://github.com/sid1993/qbitwise/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/sid1993/qbitwise/network/members]
-[![Stargazers][stars-shield]][https://github.com/sid1993/qbitwise/stargazers]
-[![Issues][issues-shield]][https://github.com/sid1993/qbitwise/issues]
-[![MIT License][license-shield]][https://github.com/sid1993/qbitwise/blob/master/license.md]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/siddhartha93]
-
 # Classical Simulation of Quantum Algorithms
 
 ## Google Colab
@@ -39,10 +32,3 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Siddhartha Chatterjee - siddharthac@iitbhilai.ac.in
 Project Link: https://github.com/sid1993/qbitwise
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-squar
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
