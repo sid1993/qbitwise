@@ -1,5 +1,11 @@
 # Classical Simulation of Quantum Algorithms
 
+## About The Project
+
+The aim of the project is to provide classical simulation of quantum algorithms of selected research papers. Simulations can be performed classically before quantum circuit implementation. It is also useful for those who want to understand the mechanics and behaviour of a quantum algorithm through classical programming languages without thinking about quantum circuits and ket notations at first.
+
+**Note** : The classical implementations will have exponential time and space complexity.
+
 ## Google Colab
 
 Use [Google Colab](https://colab.research.google.com/) to get started without any installations
