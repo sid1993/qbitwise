@@ -1,8 +1,12 @@
 # Classical Simulation of Quantum Algorithms
 
-## Prerequisites :
+## Google Colab
 
-Anconda Distribution for Python : https://www.anaconda.com/distribution/
+Use [Google Colab](https://colab.research.google.com/) to get started without any installations
+
+## Local Setup
+
+[Anconda Distribution](https://www.anaconda.com/distribution/) for Python
 
 ## Contents
 
